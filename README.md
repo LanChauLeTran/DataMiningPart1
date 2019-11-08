@@ -1,7 +1,7 @@
 # DataMiningPart1
 
 ## TODO:
-- Outliers (dbscan finish joining)
+- ~~Outliers (dbscan finish joining)~~
   - Matthew
 - Python script to fix orders of magnitude on continuous attributes
   - Lanchau  
