@@ -9,5 +9,5 @@
   - Lanchau
 - Chi square tests of independence (throw out some categorical attributes that are highly dependent on others)
   - Sujit
-- Association rules (rule relationships with is_attack)
+- ~~Apriori Association rules
   - Matthew
