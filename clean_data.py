@@ -113,6 +113,7 @@ df.to_csv("USE THIS DATASET FOR PCA, CHI SQUARE, AND APRIORI.csv")
 ########################################################################################
 # based on the results from Weka and R, we will then decide which attributes to drop here
 # drop MV301 and MV302 (p values from chi square were nearly zero when tested for indep against MV303)
+df = df.drop(columns=["MV301", "MV303", "AIT203", "FIT501", "FIT502", "FIT503", "P401"])
 
 ###################
 # remove outliers #
